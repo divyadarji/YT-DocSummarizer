@@ -1,4 +1,6 @@
 # 🎯 YT-DocSummarizer
+> 🚀 AI-powered YouTube video summarizer — extract transcripts, generate concise summaries using OpenAI or Gemini, and save directly to Google Docs or download locally.
+
 
 A Flask-based web application that:
 - Extracts transcripts from YouTube videos
